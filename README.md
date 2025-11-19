@@ -64,3 +64,8 @@ Whenever a student reports a lost or found item, a new block is created and adde
 🧪 Conclusion
 
 The Blockchain-Based Lost and Found System demonstrates how blockchain technology can be applied beyond cryptocurrencies. It provides a transparent, secure, and efficient way to manage lost-and-found items. This project is simple to implement yet powerful enough to showcase the core principles of blockchain such as **hashing, chaining, immutability, and transparency**.
+
+
+Team Member:
+Patel Shivani IAR/15537
+Sutariya Mahek IAR/15882
